@@ -53,7 +53,7 @@ function getRandomMsg(){
 function getRandomRandomRandom(){
     $('#from').html('Засівати буде <br><u>'+getRandomGosdit()+'</u>');
     $('#till').html('Ма$$кі шоу будуть в <u>'+getRandomCompany()+'</u>');
-    $('#msg').html('<b>Обшук, розбиті двері, арешт обладнання, випитя кави та "загубелні" 2-а iPhone на підставі:</b>' +
+    $('#msg').html('<b>Обшук, розбиті двері, арешт обладнання, випитя кави та "загубелні" 2 iPhone на підставі:</b>' +
         ' <br><br>'+ getRandomMsg());
 
 }
